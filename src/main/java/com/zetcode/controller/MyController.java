@@ -1,4 +1,4 @@
-cat package com.zetcode.controller;
+package com.zetcode.controller;
 
 import com.zetcode.bean.Car;
 import com.zetcode.service.ICarService;
